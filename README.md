@@ -1,13 +1,13 @@
 # KeywordsParseCollector
 
 **This program was written according to the following terms of reference:**
-1
-I want a windows application written in C# .net framework 4.8.
-This must be a simple form having these Items.
-1- A panel at the top having several buttons
-like: Start, Stop, Clear and Export
-2- A rich text box for the input
-3- A DataGrid View for the output
+
+I want a windows application written in C# .net framework 4.8.\
+This must be a simple form having these Items.\
+1- A panel at the top having several buttons\
+like: Start, Stop, Clear and Export\
+2- A rich text box for the input\
+3- A DataGrid View for the output\
 
 The application workflow:
 User enters some keywords on the richtextbox. Each line is one keyword.
