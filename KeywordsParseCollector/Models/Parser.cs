@@ -10,8 +10,6 @@ namespace KeywordsParseCollector.Models
 {
     internal class Parser
     {
-        //internal HtmlDocument Html { get; set; }
-
         internal async Task<DataTableRepository> Start(List<string> htmls)
         {
             DataTableRepository dataTableRepository = new DataTableRepository();

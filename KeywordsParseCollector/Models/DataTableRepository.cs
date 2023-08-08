@@ -9,7 +9,7 @@ namespace KeywordsParseCollector.Models
     internal class DataTableRepository
     {
         // Number
-        public long Id { get; set; }
+        //public long Id { get; set; }
 
         // Keyword
         public string Keyword { get; set; }
