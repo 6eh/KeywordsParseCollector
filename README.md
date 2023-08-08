@@ -19,16 +19,16 @@ This all operations must be run on a different thread to make the app responsibl
 \
 How to gethering information:\
 There are several sites listed below:\
-https://trimwork.co\
-https://infotable.co\
-https://prdctfindr.com\
-https://catchanswers.com\
-https://fastanswersonline.com\
-https://makeanswer.com\
-https://topicsmedia.com\
-https://askfest.com\
-https://freegetanswer.com\
-https://groovyanswers.com\
+https://trimwork.co \
+https://infotable.co \
+https://prdctfindr.com \
+https://catchanswers.com \
+https://fastanswersonline.com \
+https://makeanswer.com \
+https://topicsmedia.com \
+https://askfest.com \
+https://freegetanswer.com \
+https://groovyanswers.com \
 They are all search engines and having ads on their pages.\
 There are 2 types of ads:\
 1- Normal\
