@@ -46,4 +46,4 @@ The output columns:\
 6- Number of the Fake ads in the page\
 7- Number of the ads on the top of the page\
 8- Number of the Normal ads on the top of the page\
-9- Number of the Fake ads on the top of the page\
+9- Number of the Fake ads on the top of the page
